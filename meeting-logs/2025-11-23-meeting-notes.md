@@ -14,9 +14,11 @@
 - enhancements head tracking
 
 ### Action Items
-- 13-14 - send research
-- espidf install this in wsl
-- component list
+- Send research by November 7
+- Send research updates by November 13-14
+- Meeting scheduled for December 12-13 to discuss components list
+- Install ESP-IDF in WSL
+- Create component list
 
 ## Raw Notes
 ```
@@ -31,11 +33,11 @@ v3 - fpv proper -
 enhancements head tracking 
 
 
-13-14 - send research 
-
+7 - send research 
+12-13 dec meet to discuss components list
 
 espidf install this in wsl
 
 
-component list
+
 ```
